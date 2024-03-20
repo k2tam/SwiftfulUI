@@ -3,7 +3,8 @@
 
 To install this package, import `https://github.com/k2tam/SwiftfulUI.git` in SPM.
 
-## Usage example
+## Table of Contents
+- [Backgrounds & Borders](https://github.com/k2tam/SwiftfulUI/wiki/Backgrounds-&-Borders)
 
 ## Author
 
