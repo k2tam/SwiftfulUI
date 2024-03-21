@@ -11,6 +11,3 @@ To install this package, import `https://github.com/k2tam/SwiftfulUI.git` in SPM
 
 TamBNK 
 
-## Contributers
-
-HiFPT IOS team
